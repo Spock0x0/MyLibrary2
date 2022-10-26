@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyLibrary3",
+        "repositoryURL": "https://github.com/Spock0x0/MyLibrary3.git",
+        "state": {
+          "branch": "main",
+          "revision": "6b79c9175570d41de54edf1668b7847df8ca6200",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
