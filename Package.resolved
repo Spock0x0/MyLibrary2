@@ -9,6 +9,15 @@
           "revision": "6b79c9175570d41de54edf1668b7847df8ca6200",
           "version": null
         }
+      },
+      {
+        "package": "MyPod1",
+        "repositoryURL": "https://github.com/Spock0x0/MyPod1.git",
+        "state": {
+          "branch": "main",
+          "revision": "40639269b94b383b8d77b78ee3fa4ba9ca65e428",
+          "version": null
+        }
       }
     ]
   },
