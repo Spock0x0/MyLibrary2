@@ -2,7 +2,7 @@ import MyLibrary3
 import MyPod1
 
 public struct MyLibrary2 {
-    public private(set) var text = "Hello, World 2"
+    public private(set) var text = "Hello, World 2 latest"
     
     public var name: String
     public var age: Int
